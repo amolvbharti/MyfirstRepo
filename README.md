@@ -1,3 +1,3 @@
 # MyfirstRepo
 First test Repo
-Author - Amol Bharti
+Author - Amol Vijay Bharti
